@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <style>
+      footer{
+        padding:100px ;
+        color:white;
+        background-color:black;
+        font:normal 20px Arial;
+
+      }
+      body{
+        background-color:gray;
+      }
+#menu{
+  margin:0;
+  background:black;
+  padding:0;
+}
+#menu ul{
+  list-style:none;
+  display:inline;
+  
+}
+#menu ul li{
+  display:inline;
+  padding:30px 30px;
+  
+}
+#menu ul li a{
+  text-decoration:none;
+  font:normal 40px Arial;
+  color:gray;
+}
+h1{
+  margin:0;
+  background-image:url("https://i.pinimg.com/originals/28/ae/37/28ae37d9cc4d92103c3bc75a29df91a8.jpg");
+  font:normal 100px Cavolini;
+  color:hotpink;
+  padding:200px;
+}
+h2{
+  margin:0;
+  background-color:black;
+  font:normal 100px Arial;
+  color:gray;
+}
+#banner{
+  background:gray;
+  font:normal 20px Arial;
+  
+}
+#principal{
+  
+  margin:0;
+  font:normal 20px Arial;
+height:550px;
+weight:50px;
+
+}
+center{
+  font:normal 50px Edwardian Script ITC;
+}.btn{
+  font-family:Arial;
+  front-size:14px;
+  text-transform:uppercase;
+  font-weight:700;
+  border:none;
+  padding:10px;
+  cursor:pointer;
+  display:inline-block;
+}
+.btn-pink{
+  background:black;
+  color:white;
+  vox-shadow:0 5px 0 white;
+}
+.btn-pink:houver{
+  background:white;
+  color:white;
+  box-shadow:white;
+}
+.btn-pink:active{
+  background:white;
+  color:gray;
+  position:relative;
+  top:5px;
+  box-shadow:white;
+
+}
+      </style>
+  </head>
+  <body>
+ <h1>
+   
+ <strong>Blog</strong>
+  
+ </h1>
+ <h2>
+   <div>
+   <nav id="menu">
+    <ul>
+      <li><a href="index.html">Pagina inicial</a></li>
+      <li><a href="postagens.html">Post</a></li>
+      
+      <li><a href="sobre.html">Sobre</a></li>
+      
+
+    </ul>
+
+   </nav>
+   </div>
+ </h2>
+ <h3>
+   <div id="banner">
+
+
+
+
+<center> Nós</center><br>
+Essa área o proprietário do<br> blog escreverá sobre quem ele é ou sobre o seu negócio..<br>
+<br><br>
+<div id="pricipal">
+</div>
+</div>
+ </h3>
+ <br><br>
+ 
+    <script src="script.js">
+     
+    </script>
+  </body>
+  <footer>
+    Contato<br>
+    <Tel:></Tel:>
+    
+    Tel:(11)4433-5667<br>
+    Cel:(11)9866-9877<br>
+    </footer>
+</html>
