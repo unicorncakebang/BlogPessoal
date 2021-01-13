@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<style>
+  footer{
+        padding:100px ;
+        color:white;
+        background-color:black;
+        font:normal 20px Arial;
+
+      }
+      body{
+        background-color:gray;
+      }
+#menu{
+  margin:0;
+  background:black;
+  padding:0;
+}
+#menu ul{
+  list-style:none;
+  display:inline;
+  
+}
+#menu ul li{
+  display:inline;
+  padding:30px 30px;
+  
+}
+#menu ul li a{
+  text-decoration:none;
+  font:normal 40px Arial;
+  color:gray;
+}
+h1{
+  margin:0;
+  background-image:url("https://i.pinimg.com/originals/28/ae/37/28ae37d9cc4d92103c3bc75a29df91a8.jpg");
+  font:normal 100px Cavolini;
+  color:hotpink;
+  padding:200px;
+}
+h2{
+  margin:0;
+  background-color:black;
+  font:normal 100px Arial;
+  color:gray;
+}
+#banner{
+   weight:5100px;
+  height:100px;
+  background:pink;
+  border:10px white;
+  font:20px normal Arial;
+
+}
+#bannerx{
+   weight:5100px;
+  height:100px;
+  background:pink;
+  border:10px white;
+  font:20px normal Arial;
+
+}
+#bannery{
+   weight:5100px;
+  height:100px;
+  background:pink;
+  border:10px white;
+  font:20px normal Arial;
+
+}
+#bannerf{
+   weight:5100px;
+  height:100px;
+  background:pink;
+  border:10px white;
+  font:20px normal Arial;
+
+}
+#bannerg{
+   weight:51px;
+  height:100px;
+  background:pink;
+  border:110px white;
+  font:20px normal Arial;
+
+}
+#bannerj{
+   weight:5100px;
+  height:100px;
+  background:pink;
+  border:10px white;
+  font:20px normal Arial;
+
+}
+  </style>
+<body>
+  <h1>
+   
+ <strong>Blog</strong>
+  
+ </h1>
+ <h2>
+   <div>
+   <nav id="menu">
+    <ul>
+      <li><a href="index.html">Pagina inicial</a></li>
+      <li><a href="postagens.html">Post</a></li>
+    
+      <li><a href="sobre.html">Sobre</a></li>
+      
+
+    </ul>
+
+   </nav>
+   </div>
+   <div id="banner">
+     Essa área de publicações
+     </div>
+     <div id="bannerx">
+     Essa área de publicações
+     </div>
+     <div id="bannery">
+     Essa área de publicações
+     </div>
+     <div id="bannerf">
+     Essa área de publicações
+     </div>
+     <div id="bannerg">
+     Essa área de publicações
+     </div>
+     <div id="bannerj">
+     Essa área de publicações
+     </div>
+</body>
+<footer>
+  Contato<br>
+    <Tel:></Tel:>
+    
+    Tel:(11)4433-5667<br>
+    Cel:(11)9866-9877<br>
+</footer>
+</html>
